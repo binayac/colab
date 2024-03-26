@@ -137,7 +137,7 @@ function SignUp() {
                   color="primary"
                   checked={formData.newsletter}
                   onChange={handleChange} />}
-                  label="I want to receive inspiration, and updates via email."
+                  label="I agree to the terms and conditions"
                 />
               </Grid>
             </Grid>
